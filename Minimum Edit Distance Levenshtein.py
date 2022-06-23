@@ -2,6 +2,8 @@
 # Algorithm by Dan Jurafsky
 # Implemented by Sayan De
 
+
+# Input your Strings
 str1="Intension"
 str2="Execution"
 
